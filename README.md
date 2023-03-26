@@ -1,3 +1,4 @@
+# Piiquante API
 Welcome to the Piiquante API project, a web application designed to create, like, and share recipes. In this project, you will be able to access a variety of features that will allow you to easily manage your recipes and interact with other users.
 
 To get started with the installation process, there are a few minimum configurations required. Firstly, you need to have Node.js version 18.12.0 LTS or later and a web browser, preferably Chrome. Once you have these requirements, you can proceed with the installation process.
